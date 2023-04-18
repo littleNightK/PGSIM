@@ -1,0 +1,13 @@
+This program is a Public Governmental Service Information Management System
+
+This program use MySQL to create a citizens database and manage citizens information such as (Name, Citizen, ID, DOB, Gender, Address,
+   Marriage status with Marriage declaration, Birth Certificate and Death declaration)
+
+FEATURE:
+Basic add, update, delete and clear functions to modify citizen information
+
+HOW TO USE:
+This program use MySQL so you need to install that first
+run the "recommend.bat" file first to install all necessary modules
+Open the config file and change the host, user and password acording to the host, user, password you use for MySQL
+Then you run the "run.bat" file to run the program
